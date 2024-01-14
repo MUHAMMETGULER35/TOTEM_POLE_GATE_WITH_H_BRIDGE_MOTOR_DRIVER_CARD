@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=LEFT_MOTOR.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=LEFT_MOTOR.SchDoc|FileName=LOGIC AND POWER.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=LEFT_MOTOR.SchDoc|FileName=RIGHT_MOTOR.SchDoc|SheetNumber=1
